@@ -16,3 +16,9 @@
 2. Создать директорию, переместить файл туда.
 
 ![task_2.png](.github/images/task_2.png)
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
+   из этого репозитория.
+
+![task3_1.png](.github/images/task3_1.png)
+![task3_2.png](.github/images/task3_2.png)
