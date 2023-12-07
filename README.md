@@ -26,3 +26,7 @@
 4. Установить и удалить deb-пакет с помощью dpkg.
 
 ![task_4.png](.github/images/task_4.png)
+
+5. Выложить историю команд в терминале ubuntu
+
+![task_5.png](.github/images/task_5.png)
